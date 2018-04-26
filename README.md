@@ -1,4 +1,4 @@
-# tf_customconfigrule
+# tf_awsconfigcustomrule
 
 
 ### Resource type
